@@ -1,0 +1,15 @@
+# Python & Environment
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Mac OS
+.DS_Store
+
+# Data & Models (DO NOT PUSH THESE)
+data/
+models/
+*.parquet
+*.csv
+*.joblib
