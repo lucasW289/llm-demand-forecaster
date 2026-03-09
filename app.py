@@ -56,7 +56,7 @@ class M5FeatureEngineer:
 # 2. PAGE CONFIGURATION
 # ==========================================
 st.set_page_config(
-    page_title="Agoda Portfolio: Retail Forecaster",
+    page_title="LLM Demand Forecast",
     page_icon="📈",
     layout="wide"
 )

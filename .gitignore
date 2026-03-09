@@ -8,8 +8,6 @@ __pycache__/
 .DS_Store
 
 # Data & Models (DO NOT PUSH THESE)
-data/
-models/
-*.parquet
-*.csv
-*.joblib
+data/raw
+data/parquet
+data/processed/final.parquet
